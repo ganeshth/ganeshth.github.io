@@ -10,12 +10,12 @@ This one is a project which everyone commented as impossible. It is a JIRA proje
 
 Frankly speaking, I love open source. Imagine the world if none shared the code they developed. it would be quite different. It is not only about code, it is also about the work like art, books and knowledge. Ones knowledge saves someone's time. They don't have to reinvent the wheel.
 
-This is just a presentation of things. Check my Profile [*ganeshth* on GitHub](https://github.com/ganeshth) :smile:
+This is just a presentation of things. Check my Profile [*ganeshth* on GitHub](https://github.com/ganeshth) :)
 
 Hold on! There is also a quote before you step away :D
 > Learn anything if you find it good...who knows..<br/>
 > Someday it might help in creating something better 
 
-Thanks to **GitHub** :octocat: for providing place to host this page,
+Thanks to **GitHub** for providing place to host this page,
 **Jekyll Themes** and **[github pages](https://guides.github.com/features/pages)** for all those easy steps
 

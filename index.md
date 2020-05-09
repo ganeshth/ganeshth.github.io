@@ -4,7 +4,7 @@ This page might be boring, if you have visited other GitHub profiles. I tried to
 
 There are other time saving projects and I am not really sure as to how to produce them. I will try and include if possible. 
 
-The next project would be the Distributed Systems Monitor. Right now, it is a private repository and Work in progress (again, frankly I never started it :stuck_out_tongue_winking_eye: ). There is an existing work of mine which I'm planning to enhance. Hope it works! The idea is to have a centralised setup which fetches the CPU, RAM and Storage space of multiple system and presents it in a well defined fashion. 
+The next project would be the Distributed Systems Monitor. Right now, it is a private repository and Work in progress (again, frankly I never started it :P ). There is an existing work of mine which I'm planning to enhance. Hope it works! The idea is to have a centralised setup which fetches the CPU, RAM and Storage space of multiple system and presents it in a well defined fashion. 
 
 This one is a project which everyone commented as impossible. It is a JIRA project and I felt proud after finishing it. [Link to be added]
 
@@ -12,7 +12,7 @@ Frankly speaking, I love open source. Imagine the world if none shared the code 
 
 This is just a presentation of things. Check my Profile [*ganeshth* on GitHub](https://github.com/ganeshth) :smile:
 
-Hold on! There is also a quote before you step away :grin:
+Hold on! There is also a quote before you step away :D
 > Learn anything if you find it good...who knows..<br/>
 > Someday it might help in creating something better 
 
